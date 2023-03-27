@@ -8,4 +8,4 @@ I used chat gpt with two parts of the code:
   -I also used it to show me how to make a copy of the data frame i was using so that when i sorted it down for the line graph i had the original i
   could use for the scatterplot.
   
- 
+ Other then that i used what we learned and did in the activities from the last 3 classes on these subjects.
